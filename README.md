@@ -7,6 +7,8 @@
 
 <h1 align="center"><strong>Dungeon Warrior</strong></h1>  
 <p align="center">Dark fantasy horror epic RPG game. Explore dark dungeons, battle fierce monsters, and uncover the secrets that lie beneath. Immerse yourself in an epic adventure filled with challenges, where every decision could lead to glory or doom!</p>
+<img src="https://github.com/user-attachments/assets/fd87a25a-e11c-4f1a-af02-f016c31077a5" width="30%" />
+<img src="https://github.com/user-attachments/assets/3754a1bc-f594-4c5c-9201-e040e87ce3db" width="30%" />
 
 ---
 
@@ -36,6 +38,8 @@
 
 <h2 align="center">⛏️ Mine Protection</h2>  
 <p align="center">Want to make more gold? Protect the miners as they work and earn rewards based on how long you shield them from danger. The longer you stay on guard, the greater the rewards!</p>
+<img src="https://github.com/user-attachments/assets/abe915a3-98e5-4725-911c-43f3eb0f3be0" width="30%" />
+<img src="https://github.com/user-attachments/assets/6812e12a-2e8a-4e58-91cd-05bdbc6fa7d3" width="30%" />
 <img src="https://github.com/user-attachments/assets/abe915a3-98e5-4725-911c-43f3eb0f3be0" width="30%" />
 <img src="https://github.com/user-attachments/assets/6812e12a-2e8a-4e58-91cd-05bdbc6fa7d3" width="30%" />
 
