@@ -3,13 +3,11 @@
   <img src="https://github.com/user-attachments/assets/84d05ace-d61c-4cd1-aedc-9ab0c2443f57" alt="Image" />
 </p>
 
-
-
 <h1 align="center"><strong>Dungeon Warrior</strong></h1>  
 <p align="center">Dark fantasy horror epic RPG game. Explore dark dungeons, battle fierce monsters, and uncover the secrets that lie beneath. Immerse yourself in an epic adventure filled with challenges, where every decision could lead to glory or doom!</p>
 
-
 ---
+
 
 <h2 align="center">🛡️ The Warrior</h2>  
 <p align="center">Choose your warrior from 16 different characters and develop your skills to become an unstoppable force! Customize your fighter to match your battle style and lead them to victory!</p>
