@@ -16,8 +16,8 @@
   <li>Over 60 unique monsters with distinct names you won’t encounter twice!</li>
   <li>Animations and sound effects for an epic war experience.</li>
 </ul>
-<img src="https://github.com/user-attachments/assets/7c4a9ce7-be50-40af-8a54-499125dee843" width="20%" />
 <img src="https://github.com/user-attachments/assets/960bda13-3a1f-4839-b092-4eda67f51904" width="20%" />
+<img src="https://github.com/user-attachments/assets/7c4a9ce7-be50-40af-8a54-499125dee843" width="20%" />
 
 ---
 
@@ -29,6 +29,7 @@
 
 <h2 align="center">⛏️ Mine Protection</h2>  
 <p align="center">Want to make more gold? Protect the miners as they work and earn rewards based on how long you shield them from danger. The longer you stay on guard, the greater the rewards!</p>
+<img src="https://github.com/user-attachments/assets/abe915a3-98e5-4725-911c-43f3eb0f3be0" width="20%" />
 <img src="https://github.com/user-attachments/assets/6812e12a-2e8a-4e58-91cd-05bdbc6fa7d3" width="20%" />
 
 ---
