@@ -57,10 +57,13 @@
 
 ---
 
-<h2 align="center">🚀 Future Updates</h2> 
+<h2 align="center">🚀 Future Updates</h2>
+
+<h2 align="start"><strong>Interactive Story</strong></h2>
+<p align="start">In this mode, the warrior embarks on a single-player journey, diving into an immersive story. Along the way, they make choices and decisions that shape and alter their own unique story. Experience the sometimes frightening, sometimes thrilling narrative of this world interactively, as you carve your path through the adventure.</p>
 
 <h2 align="start"><strong>Deep Dungeon</strong></h2>
-<p align="start">A new challenging dungeon featuring the most powerful and unique monsters. These monsters will increase in strength with each rank, offering a total of 20-21 monsters. Prepare yourself for a fierce battle!</p>
+<p align="start">A new challenging dungeon featuring the most powerful and unique monsters. These monsters will increase in strength with each rank, offering a total of 20-21 monsters. Prepare yourself for a fierce battle.</p>
 
 <h2 align="start"><strong>Turn-based Combat</strong></h2>
 <p align="start">A turn-based battle system will be introduced with unique mechanics. Each item will have its own abilities tailored for this dungeon, adding more strategy to every encounter.</p>
