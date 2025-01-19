@@ -53,3 +53,17 @@
 
 <h2 align="center">🎶 Epic Theme Musics</h2>  
 <p align="center">Immerse yourself in the world with 7 different epic theme music tracks. Let the soundtrack elevate your adventure and make each moment even more unforgettable.</p>
+
+---
+
+<h2 align="center">🚀 Future Updates</h2> 
+
+<h2 align="start"><strong>Deep Dungeon</strong></h2>
+<p align="start">A new challenging dungeon featuring the most powerful and unique monsters. These monsters will increase in strength with each rank, offering a total of 20-21 monsters. Prepare yourself for a fierce battle!</p>
+
+<h2 align="start"><strong>Turn-based Combat</strong></h2>
+<p align="start">A turn-based battle system will be introduced with unique mechanics. Each item will have its own abilities tailored for this dungeon, adding more strategy to every encounter.</p>
+
+<h2 align="start"><strong>Online PvP</strong></h2>
+<p align="start">In future updates, players will face off against each other in PvP battles within an arena. Players can view their opponents' profiles and compete to become one of the top-ranked players in the world through a global ranking system. Let the battle for supremacy begin!</p>
+
