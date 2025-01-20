@@ -27,6 +27,12 @@
 
 ---
 
+<h2 align="center">⛰️ Mountain</h2>
+<p align="center">Instead of fighting like in the dungeon, you will interact with the screen using your touch. You can improve your abilities with honor to deal more damage with each touch. This mod allows you to interact and fight monsters.</p>
+<img src="https://github.com/user-attachments/assets/bca022ac-807f-4b4d-9b24-c51ebe4f3095" width="30%" />
+
+---
+
 <h2 align="center">🔨 BlackSmith</h2>  
 <p align="center">With over 25 unique items to craft, including magic staffs, swords, helmets, amulets, rings, and even a mystical flower, the Blacksmith awaits your orders! You can also buy potions to boost your power on your adventures.</p>
 <img src="https://github.com/user-attachments/assets/4e98097f-cca4-4702-a3f6-99e3c7dc7090" width="30%" />
@@ -57,6 +63,7 @@
 <img src="https://github.com/user-attachments/assets/69961955-2118-497d-8a7a-48016bd7bf40" width="30%" />
 
 ---
+
 
 <h2 align="center">🎶 Epic Theme Musics</h2>  
 <p align="center">Immerse yourself in the world with 7 different epic theme music tracks. Let the soundtrack elevate your adventure and make each moment even more unforgettable.</p>
